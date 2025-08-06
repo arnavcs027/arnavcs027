@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Arnav Nandi
-<h1>A passionate Frontend Developer from India</h1>
+<h3>A passionate Frontend Developer from India</h3>
 <p>Email me nandiarnav07@gmail.com for collaboration/project or anything else.</p>
 
 
